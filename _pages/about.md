@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guanghui Shen , a fourth year undergraduate student at Tsinghua University.
+My name is Guanghui Shen, a fourth-year undergraduate student at Tsinghua University. I major in Mechanical Engineering and minor in Software Engineering. I enjoy programming and have basic knowledge of C/C++ and Python.
 
 A data-driven personal website
 ======
