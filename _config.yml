@@ -21,7 +21,7 @@ repository               : "sgh21/sgh21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "person.png"
+  avatar           : "profile.png"
   name             : "Guanghui Shen"
   pronouns         : # example: "she/her"  
   bio              : "A fourth year undergraduate student at Tsinghua University."
@@ -45,7 +45,7 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "sgh21"
-  # bilibili         : "1221820131?spm_id_from=333.1007.0.0"
+  bilibili         : "1221820131?spm_id_from=333.1007.0.0"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
