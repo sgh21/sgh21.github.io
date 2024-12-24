@@ -21,7 +21,7 @@ repository               : "sgh21/sgh21.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "person.png"
   name             : "Guanghui Shen"
   pronouns         : # example: "she/her"  
   bio              : "A fourth year undergraduate student at Tsinghua University."
