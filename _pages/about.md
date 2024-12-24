@@ -16,7 +16,7 @@ I joined the TH-MOS Soccer Robot Interest Team at Tsinghua University, where I w
 Additionally, I joined Professor Wu Dan's research group to work on the project "[Self-supervised Learning of Reconstructing Deformable Linear Objects under Single Occluded View.](https://github.com/MP2CDLO/MP2CDLO)" I proposed a self-supervised point cloud reconstruction method and completed several innovative tasks, achieving state-of-the-art experimental results. As the second author, I submitted the work to the top robotics conference ICRA (International Conference on Robotics and Automation). These experiences have solidified my theoretical foundation, enriched my personal skills, and enhanced my technical and innovative capabilities, laying a solid foundation for my future academic exploration.
 
 
-Getting started
+<!-- Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
 2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
@@ -43,8 +43,8 @@ How to edit your site's GitHub repository
 Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
 
 Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+![Editing a markdown file for a talk](/images/editing-talk.png) -->
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+You can find my CV [here](https://sgh21.github.io/cv/).
