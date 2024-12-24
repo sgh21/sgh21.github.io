@@ -1,7 +1,7 @@
 ---
-title: "RoboCup2024"
-excerpt: "I went to the Netherlands to participate in RoboCup 2024, where I encountered many strong opponents and gained a lot of knowledge.<br/><img src='/images/RoboCup.png'>"
+title: "We are the champons!"
+excerpt: "Went to Suzhou to participate in the National College Student Precision Assembly Competition. We won the national championship!<br/><img src='/images/Our.png'>"
 collection: portfolio
 ---
 
-I went to the Netherlands to participate in RoboCup 2024, where I encountered many strong opponents and gained a lot of knowledge.
+Went to Suzhou to participate in the National College Student Precision Assembly Competition. We won the national championship!
