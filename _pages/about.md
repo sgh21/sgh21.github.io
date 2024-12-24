@@ -7,22 +7,23 @@ redirect_from:
   - /about.html
 ---
 
-My name is Guanghui Shen, a fourth-year undergraduate student at Tsinghua University. I major in Mechanical Engineering and minor in Software Engineering. I enjoy programming and have basic knowledge of C/C++ and Python.
+My name is Guanghui Shen, a fourth-year undergraduate student at Tsinghua University. I major in Mechanical Engineering and minor in Software Engineering. I am currently a prospective Ph.D. student in the Department of Mechanical Engineering at Tsinghua University, Class of 2025.I enjoy programming and have basic knowledge of C/C++ and Python.
 
-A data-driven personal website
+Competition and Research Experience
 ======
-Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I joined the TH-MOS Soccer Robot Interest Team at Tsinghua University, where I was responsible for robot simulation, motion control algorithm development, and debugging. I implemented and deployed a model predictive control-based gait algorithm, which improved the generalization and stability of the robot control algorithms.   
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over - just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+Additionally, I joined Professor Wu Dan's research group to work on the project "[Self-supervised Learning of Reconstructing Deformable Linear Objects under Single Occluded View.](https://github.com/MP2CDLO/MP2CDLO)" I proposed a self-supervised point cloud reconstruction method and completed several innovative tasks, achieving state-of-the-art experimental results. As the second author, I submitted the work to the top robotics conference ICRA (International Conference on Robotics and Automation). These experiences have solidified my theoretical foundation, enriched my personal skills, and enhanced my technical and innovative capabilities, laying a solid foundation for my future academic exploration.
+
 
 Getting started
 ======
 1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+2. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
+3. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
+4. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
+5. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
+6. Check status by going to the repository settings, in the "GitHub pages" section
 
 Site-wide configuration
 ------
